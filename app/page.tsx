@@ -136,10 +136,13 @@ export default function Portfolio() {
               </div>
               <div className="space-y-5">
                 <p className="text-base leading-relaxed text-foreground">
-                  I am an Electronics Engineering graduate with strong experience in designing and implementing IoT and embedded systems. I have completed several real-world projects in automatic control, industrial sensor integration, wireless communication, and cloud-based monitoring systems.
+                  A D3 Electronics Engineering graduate with a strong passion for embedded systems and monitoring technology. I am eager to leverage my background in electronic instrumentation and hardware integration to develop reliable real-world monitoring solutions.
                 </p>
                 <p className="text-base leading-relaxed text-foreground">
-                  Every system I develop is engineered to be stable and operationally intuitive. I work across the full stack—from hardware design and firmware development to web application interfaces—with a structured, methodical approach.
+                  During my time at university, I gained hands-on experience through academic projects focused on sensor-based monitoring systems. One of my key achievements was developing an IoT-based soil fertility monitoring prototype that integrated multiple environmental sensors and real-time data transmission. I am disciplined, detail-oriented, and quick to adapt to technical challenges.
+                </p>
+                <p className="text-base leading-relaxed text-foreground">
+                  Currently, I'm looking for new opportunities in electronics, instrumentation, and monitoring systems, where I can contribute to practical engineering solutions and continue developing my technical expertise.
                 </p>
               </div>
             </section>
