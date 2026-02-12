@@ -260,33 +260,6 @@ export default function Portfolio() {
                   <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-accent/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(255,255,255,0.1)] lg:group-hover:drop-shadow-lg"></div>
                   <div className="z-10 col-span-2 hidden sm:block">
                     <img
-                      src="/airport-runway-lights-system.jpg"
-                      alt="Airfield Lighting"
-                      className="rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30"
-                    />
-                  </div>
-                  <div className="z-10 col-span-8 sm:col-span-6">
-                    <h3 className="font-medium leading-snug text-foreground text-base">
-                      <div className="inline-flex items-baseline font-medium leading-tight text-foreground hover:text-primary focus-visible:text-primary group/link">
-                        Airfield Lighting Control System
-                      </div>
-                    </h3>
-                    <p className="mt-2 text-sm leading-normal text-muted-foreground">
-                      Sistem kontrol lampu bandara (Runway, Taxiway, PAPI, dll) berbasis ESP32 dengan pengaturan
-                      intensitas PWM dan kontrol via web/Blynk.
-                    </p>
-                    <ul className="mt-4 flex flex-wrap gap-2">
-                      <li className="rounded-full bg-primary/10 px-3 py-1 text-xs text-primary">ESP32</li>
-                      <li className="rounded-full bg-primary/10 px-3 py-1 text-xs text-primary">PWM</li>
-                      <li className="rounded-full bg-primary/10 px-3 py-1 text-xs text-primary">Relay</li>
-                    </ul>
-                  </div>
-                </div>
-
-                <div className="group relative grid grid-cols-8 gap-4 transition-all lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
-                  <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-accent/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(255,255,255,0.1)] lg:group-hover:drop-shadow-lg"></div>
-                  <div className="z-10 col-span-2 hidden sm:block">
-                    <img
                       src="/soil-monitoring-wsn-electronics.jpg"
                       alt="Soil Monitoring WSN"
                       className="rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30"
@@ -350,32 +323,6 @@ export default function Portfolio() {
                   </div>
                 </div>
 
-                <div className="group relative grid grid-cols-8 gap-4 transition-all lg:hover:!opacity-100 lg:group-hover/list:opacity-50">
-                  <div className="absolute -inset-x-4 -inset-y-4 z-0 hidden rounded-md transition motion-reduce:transition-none lg:-inset-x-6 lg:block lg:group-hover:bg-accent/50 lg:group-hover:shadow-[inset_0_1px_0_0_rgba(255,255,255,0.1)] lg:group-hover:drop-shadow-lg"></div>
-                  <div className="z-10 col-span-2 hidden sm:block">
-                    <img
-                      src="/ai-landing-page-modern-ui.jpg"
-                      alt="WellAI"
-                      className="rounded border-2 border-slate-200/10 transition group-hover:border-slate-200/30"
-                    />
-                  </div>
-                  <div className="z-10 col-span-8 sm:col-span-6">
-                    <h3 className="font-medium leading-snug text-foreground text-base">
-                      <div className="inline-flex items-baseline font-medium leading-tight text-foreground hover:text-primary focus-visible:text-primary group/link">
-                        WellAI – AI Landing Page Generator
-                      </div>
-                    </h3>
-                    <p className="mt-2 text-sm leading-normal text-muted-foreground">
-                      Aplikasi web penghasil konten landing page otomatis berbasis prompt menggunakan OpenAI API,
-                      Next.js, dan Tailwind CSS.
-                    </p>
-                    <ul className="mt-4 flex flex-wrap gap-2">
-                      <li className="rounded-full bg-primary/10 px-3 py-1 text-xs text-primary">Next.js</li>
-                      <li className="rounded-full bg-primary/10 px-3 py-1 text-xs text-primary">OpenAI</li>
-                      <li className="rounded-full bg-primary/10 px-3 py-1 text-xs text-primary">Tailwind</li>
-                    </ul>
-                  </div>
-                </div>
               </div>
             </section>
 
